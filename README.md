@@ -1,2 +1,2 @@
 # WPIHackathon
-Repository for WPI Hackathon
+Repository for WPI Hackathon what be happening
